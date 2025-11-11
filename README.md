@@ -19,7 +19,7 @@ An adaptive React-based booking widget for selecting dates and time slots with s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anastasiia-mahalias_epam/booking-widget.git
+   git clone https://github.com/AMahalias/6037_book_session.git
    ```
 2. Navigate to the project directory:
    ```bash
