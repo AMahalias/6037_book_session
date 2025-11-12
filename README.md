@@ -1,6 +1,7 @@
 # Booking Widget
 
 An adaptive React-based booking widget for selecting dates and time slots with smooth scrolling functionality.
+[Show here](https://amahalias.github.io/6037_book_session/).
 
 ## Features
 

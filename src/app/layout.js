@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: "Booking Session",
   description: "Choose a date and time that is convenient for you to e-meet your stylist",
