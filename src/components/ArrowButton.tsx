@@ -14,7 +14,7 @@ export const ArrowButton = ({ direction, onClick, disabled }: ArrowButtonProps )
       }`}
     >
       <img
-        src={"/icons/chevron-right.svg"}
+        src={`${process.env.NEXT_PUBLIC_ASSET_PREFIX || ""}/icons/chevron-right.svg`}
         alt={`${direction === "left" ? "Left" : "Right"} Arrow`}
         className={`size-[24px] ${direction === "left" ? "-rotate-180" : ""}`}
       />

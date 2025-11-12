@@ -2,13 +2,13 @@
   "name": "6037_book_session",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AMahalias.github.io/6037_book_session",
+  "homepage": "https://amahalias.github.io/6037_book_session",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "predeploy": "next build && next export",
+    "predeploy": "npm run build && echo > out/.nojekyll",
     "deploy": "gh-pages -d out"
   },
   "dependencies": {

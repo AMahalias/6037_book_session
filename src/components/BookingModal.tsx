@@ -19,7 +19,7 @@ export const BookingModal = () => {
       <div className="flex flex-col gap-[3vw] w-full">
         <div className="flex gap-8 items-center justify-between md:ml-8">
           <Image
-            src="/images/bg_desktop.png"
+            src={`${process.env.NEXT_PUBLIC_ASSET_PREFIX || ""}/images/bg_desktop.png`}
             className="md:block hidden rounded-full object-cover object-right size-[120px]"
             alt="Booking Image"
             width={120}
