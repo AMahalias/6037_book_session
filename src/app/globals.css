@@ -1,8 +1,11 @@
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Kaisei+Tokumin:wght@700&display=swap");
 
 :root {
   --background: #E28F11;
   --foreground: #171717;
+  --font-poppins: 'Poppins', sans-serif;
+  --font-kaisei-tokumin: 'Kaisei Tokumin', serif;
   --selected-bg: #F7F7FC;
   --selected-text: #DE3A6B;
   --primary-text: #16171B;
@@ -10,6 +13,13 @@
   --border-button: #E8EBF4;
   --mob-bg-circle: #AD5707;
   --mob-bg-circle-border: #FFAD32;
+}
+
+.font-poppins {
+  font-family: var(--font-poppins);
+}
+.font-kaisei {
+  font-family: var(--font-kaisei-tokumin);
 }
 
 @theme inline {

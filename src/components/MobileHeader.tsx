@@ -14,7 +14,7 @@ export const MobileHeader = () => {
         </div>
         <div className="flex items-center gap-2 py-1 px-3 w-fit bg-white/20 rounded-full backdrop-blur-sm">
           <img
-            src={`${process.env.NEXT_PUBLIC_ASSET_PREFIX || ""}/icons/clock.svg`}
+            src="icons/clock.svg"
             alt="Clock Icon"
             className="w-4 h-4 sm:w-5 sm:h-5"
           />
@@ -24,7 +24,7 @@ export const MobileHeader = () => {
       <div className="absolute right-0 top-[40px] w-[70vw] sm:w-[60vw] aspect-square bg-[var(--mob-bg-circle)] border-[3px] sm:border-[4px] border-[var(--mob-bg-circle-border)] rounded-full translate-x-1/4 -translate-y-1/4" />
       <div className="absolute right-[-60px] bottom-[-60px] w-[100vw] sm:w-[70vw] z-0">
         <Image
-          src={`${process.env.NEXT_PUBLIC_ASSET_PREFIX || ""}/images/bg_girl.png`}
+          src="images/bg_girl.png"
           alt="Background image"
           className="object-contain"
           width={500}

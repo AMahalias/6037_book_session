@@ -8,8 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "predeploy": "npm run build && echo > out/.nojekyll",
-    "deploy": "gh-pages -d out"
+    "predeploy": "npm run build && cp .nojekyll out/.nojekyll",
+    "deploy": "npm run build && touch out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
