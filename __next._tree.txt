@@ -4,7 +4,7 @@
 5:"$Sreact.suspense"
 7:I[73542,["/6037_book_session/_next/static/chunks/ae54609b69558eac.js","/6037_book_session/_next/static/chunks/0dc4b3cad368914a.js"],"IconMark"]
 :HL["https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Kaisei+Tokumin:wght@700&display=swap","style"]
-:HL["/icons/clock.svg","image"]
-0:{"buildId":"B7K85bO8ch3rMbvY2jH0T","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+:HL["icons/clock.svg","image"]
+0:{"buildId":"6JF7_JKTsxgzsQrxEPOLU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Booking Session"}],["$","meta","1",{"name":"description","content":"Choose a date and time that is convenient for you to e-meet your stylist"}],["$","link","2",{"rel":"icon","href":"/6037_book_session/favicon.ico?favicon.5b4c2ba3.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L7","3",{}]]
